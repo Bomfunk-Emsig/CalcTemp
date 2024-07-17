@@ -1,0 +1,2 @@
+handcalcs==1.0.6
+forallpeople==0.2.1
