@@ -1,0 +1,7 @@
+{
+  "name": "Python Development",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  },
+  "postCreateCommand": "pip install --user -r requirements.txt"
+}
